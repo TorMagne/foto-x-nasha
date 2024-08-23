@@ -8,6 +8,7 @@ export default defineNuxtConfig({
       title: 'Foto X Skjelstadås',
       htmlAttrs: {
         'data-theme': 'dark', // Set your desired theme here
+        lang: 'no', // Set the language attribute to Norwegian
       },
       link: [
         {
