@@ -6,6 +6,9 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: 'Foto X Skjelstadås',
+      htmlAttrs: {
+        'data-theme': 'dark', // Set your desired theme here
+      },
       link: [
         {
           rel: 'preconnect',
