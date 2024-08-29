@@ -2,7 +2,8 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
-  modules: ["@nuxtjs/tailwindcss", '@nuxtjs/robots'],
+  modules: ["@nuxtjs/tailwindcss", '@nuxtjs/robots', '@nuxtjs/sitemap'],
+
   app: {
     head: {
       title: 'Foto X Skjelstadås',
