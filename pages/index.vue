@@ -3,7 +3,7 @@
     <section>
       <div class="hero hidden rounded-md bg-zinc-700 p-6 shadow-md md:block">
         <div class="hero-content max-w-max flex-col justify-between lg:flex-row-reverse">
-          <img src="../assets/images/header.jpg" class="max-w-sm rounded-md shadow-2xl" />
+          <img src="~/assets/images/header.jpg" class="max-w-sm rounded-md shadow-2xl" />
           <div class="text-white md:mr-10">
             <h1 class="mb-4 font-Raleway text-5xl font-bold">Foto X</h1>
             <h2 class="font-Raleway text-3xl font-bold">Skjelstadås Fanger øyeblikket!</h2>
@@ -30,7 +30,7 @@
       </div>
 
       <div class="hero bg-transparent md:hidden">
-        <img src="../assets/images/header.jpg" alt="" />
+        <img src="~/assets/images/header.jpg" alt="" />
         <div class="hero-overlay bg-opacity-60"></div>
         <div class="hero-content text-center text-neutral-content">
           <div class="max-w-md text-white">
@@ -81,7 +81,7 @@
 
       <div class="avatar">
         <div class="ml-auto w-full rounded md:w-[450px]">
-          <img src="../assets/images/omfotoxhomepage.jpg" alt="partner image" />
+          <img src="~/assets/images/omfotoxhomepage.jpg" alt="partner image" />
         </div>
       </div>
     </section>
@@ -91,7 +91,7 @@
     >
       <div class="avatar">
         <div class="w-full rounded md:w-[450px]">
-          <img src="../assets/images/omfotox.jpg" alt="partner image" />
+          <img src="~/assets/images/omfotox.jpg" alt="partner image" />
         </div>
       </div>
 

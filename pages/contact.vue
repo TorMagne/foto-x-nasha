@@ -20,7 +20,7 @@
     >
       <div class="avatar">
         <div class="w-full rounded">
-          <img src="../assets/images/omfotox.jpg" alt="partner image" />
+          <img src="~/assets/images/omfotox.jpg" alt="partner image" />
         </div>
       </div>
 

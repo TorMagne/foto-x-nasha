@@ -3,7 +3,7 @@
     <section>
       <div class="hero hidden rounded-md bg-zinc-700 p-6 shadow-md md:block">
         <div class="hero-content max-w-max flex-col justify-between lg:flex-row-reverse">
-          <img src="../assets/images/priserbg.jpg" class="max-w-sm rounded-md shadow-2xl" />
+          <img src="~/assets/images/priserbg.jpg" class="max-w-sm rounded-md shadow-2xl" />
           <div class="text-white md:mr-10">
             <h1 class="mb-4 font-Raleway text-5xl font-bold">Prisoversikt</h1>
             <p class="py-6 font-Libre">
@@ -25,7 +25,7 @@
       </div>
 
       <div class="hero bg-transparent md:hidden">
-        <img class="h-full object-cover" src="../assets/images/priserbg.jpg" />
+        <img class="h-full object-cover" src="~/assets/images/priserbg.jpg" />
         <div class="hero-overlay bg-opacity-60"></div>
         <div class="hero-content text-center text-neutral-content">
           <div class="max-w-md text-white">

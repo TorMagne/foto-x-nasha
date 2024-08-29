@@ -19,7 +19,7 @@
 
       <div class="md:flex">
         <div>
-          <img src="../assets/images/nasha.jpeg" alt="Profil bilde av Ina Skjelstadås" />
+          <img src="~/assets/images/nasha.jpeg" alt="Profil bilde av Ina Skjelstadås" />
         </div>
 
         <div class="md:ml-10 xl:ml-14">
@@ -109,7 +109,7 @@
         </div>
 
         <div class="my-8">
-          <img src="../assets/images/diplom.jpg" alt="" />
+          <img src="~/assets/images/diplom.jpg" alt="" />
         </div>
       </div>
     </section>
