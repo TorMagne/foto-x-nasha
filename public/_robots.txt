@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /admin
 Allow: /
-Sitemap: https://fotox.studio//sitemap.xml
+Sitemap: https://fotox.studio/sitemap.xml
